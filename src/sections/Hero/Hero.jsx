@@ -38,7 +38,7 @@ function Hero() {
         <h1>
           Mohammad
           <br />
-          Sabbir Musfique
+          Sabbir
         </h1>
         <h2>Problem Solver</h2>
         <h2>FullStack Developer</h2>
